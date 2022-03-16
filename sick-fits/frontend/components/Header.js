@@ -13,7 +13,7 @@ const Logo = styled.h1`
     color: white;
     text-decoration: none;
     text-transform: uppercase;
-    padding 0.5rem 1rem;
+    padding: 0.5rem 1rem;
   }
 `;
 
