@@ -1,6 +1,3 @@
 export default function SellPage() {
-    return <div>
-        <p>In sell page!</p>
-    </div>
-} 
-
+  return <p>Hello I am the sell page!</p>;
+}
